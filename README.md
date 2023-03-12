@@ -1,5 +1,5 @@
 # C-kurssiprojekti
-A project made for C programming course. I implemented a calendar where the user can add and remove entries and save them into a file.
+A project made for C-programming course in spring 2021. I implemented a calendar where the user can add and remove entries and save them into a file.
 
 The calendar can be used by committing following commands:
 
